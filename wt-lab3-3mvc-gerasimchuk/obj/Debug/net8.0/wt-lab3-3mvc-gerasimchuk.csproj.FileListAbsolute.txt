@@ -1,0 +1,15 @@
+C:\Users\geral\OneDrive\Pulpit\wt-lab3-3mvc-gerasimchuk\wt-lab3-3mvc-gerasimchuk\bin\Debug\net8.0\wt-lab3-3mvc-gerasimchuk.exe
+C:\Users\geral\OneDrive\Pulpit\wt-lab3-3mvc-gerasimchuk\wt-lab3-3mvc-gerasimchuk\bin\Debug\net8.0\wt-lab3-3mvc-gerasimchuk.deps.json
+C:\Users\geral\OneDrive\Pulpit\wt-lab3-3mvc-gerasimchuk\wt-lab3-3mvc-gerasimchuk\bin\Debug\net8.0\wt-lab3-3mvc-gerasimchuk.runtimeconfig.json
+C:\Users\geral\OneDrive\Pulpit\wt-lab3-3mvc-gerasimchuk\wt-lab3-3mvc-gerasimchuk\bin\Debug\net8.0\wt-lab3-3mvc-gerasimchuk.dll
+C:\Users\geral\OneDrive\Pulpit\wt-lab3-3mvc-gerasimchuk\wt-lab3-3mvc-gerasimchuk\bin\Debug\net8.0\wt-lab3-3mvc-gerasimchuk.pdb
+C:\Users\geral\OneDrive\Pulpit\wt-lab3-3mvc-gerasimchuk\wt-lab3-3mvc-gerasimchuk\obj\Debug\net8.0\wt-lab3-3mvc-gerasimchuk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geral\OneDrive\Pulpit\wt-lab3-3mvc-gerasimchuk\wt-lab3-3mvc-gerasimchuk\obj\Debug\net8.0\wt-lab3-3mvc-gerasimchuk.AssemblyInfoInputs.cache
+C:\Users\geral\OneDrive\Pulpit\wt-lab3-3mvc-gerasimchuk\wt-lab3-3mvc-gerasimchuk\obj\Debug\net8.0\wt-lab3-3mvc-gerasimchuk.AssemblyInfo.cs
+C:\Users\geral\OneDrive\Pulpit\wt-lab3-3mvc-gerasimchuk\wt-lab3-3mvc-gerasimchuk\obj\Debug\net8.0\wt-lab3-3mvc-gerasimchuk.csproj.CoreCompileInputs.cache
+C:\Users\geral\OneDrive\Pulpit\wt-lab3-3mvc-gerasimchuk\wt-lab3-3mvc-gerasimchuk\obj\Debug\net8.0\wt-lab3-3mvc-gerasimchuk.sourcelink.json
+C:\Users\geral\OneDrive\Pulpit\wt-lab3-3mvc-gerasimchuk\wt-lab3-3mvc-gerasimchuk\obj\Debug\net8.0\wt-lab3-3mvc-gerasimchuk.dll
+C:\Users\geral\OneDrive\Pulpit\wt-lab3-3mvc-gerasimchuk\wt-lab3-3mvc-gerasimchuk\obj\Debug\net8.0\refint\wt-lab3-3mvc-gerasimchuk.dll
+C:\Users\geral\OneDrive\Pulpit\wt-lab3-3mvc-gerasimchuk\wt-lab3-3mvc-gerasimchuk\obj\Debug\net8.0\wt-lab3-3mvc-gerasimchuk.pdb
+C:\Users\geral\OneDrive\Pulpit\wt-lab3-3mvc-gerasimchuk\wt-lab3-3mvc-gerasimchuk\obj\Debug\net8.0\wt-lab3-3mvc-gerasimchuk.genruntimeconfig.cache
+C:\Users\geral\OneDrive\Pulpit\wt-lab3-3mvc-gerasimchuk\wt-lab3-3mvc-gerasimchuk\obj\Debug\net8.0\ref\wt-lab3-3mvc-gerasimchuk.dll

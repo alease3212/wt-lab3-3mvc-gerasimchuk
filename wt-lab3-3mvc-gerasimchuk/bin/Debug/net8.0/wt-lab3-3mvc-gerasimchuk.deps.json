@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "wt-lab3-3mvc-gerasimchuk/1.0.0": {
+        "runtime": {
+          "wt-lab3-3mvc-gerasimchuk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "wt-lab3-3mvc-gerasimchuk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
